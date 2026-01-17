@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BharatKatha AI: Cultural Storytelling System",
+  "description": "An advanced AI/ML system for preserving and narrating authentic Indian regional folk stories using multimodal Generative AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
